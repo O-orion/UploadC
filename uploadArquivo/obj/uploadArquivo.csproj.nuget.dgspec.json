@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lucas\\Desktop\\Lucas\\Projetos\\AppRestC#\\uploadArquivo\\uploadArquivo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lucas\\Desktop\\Lucas\\Projetos\\AppRestC#\\uploadArquivo\\uploadArquivo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\Lucas\\Projetos\\AppRestC#\\uploadArquivo\\uploadArquivo.csproj",
+        "projectName": "uploadArquivo",
+        "projectPath": "C:\\Users\\Lucas\\Desktop\\Lucas\\Projetos\\AppRestC#\\uploadArquivo\\uploadArquivo.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas\\Desktop\\Lucas\\Projetos\\AppRestC#\\uploadArquivo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
