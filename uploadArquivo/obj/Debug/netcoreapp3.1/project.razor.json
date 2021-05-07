@@ -14402,6 +14402,11 @@
   "RootNamespace": "uploadArquivo",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Lucas\\Desktop\\Lucas\\Projetos\\AppRestC#\\uploadArquivo\\Pages\\upload.cshtml",
+      "TargetPath": "Pages\\upload.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Lucas\\Desktop\\Lucas\\Projetos\\AppRestC#\\uploadArquivo\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
