@@ -36,3 +36,7 @@ C:\Users\Lucas\Desktop\Lucas\Projetos\AppRestC#\uploadArquivo\obj\Debug\netcorea
 C:\Users\Lucas\Desktop\Lucas\Projetos\AppRestC#\uploadArquivo\obj\Debug\netcoreapp3.1\uploadArquivo.genruntimeconfig.cache
 C:\Users\Lucas\Desktop\Lucas\Projetos\AppRestC#\uploadArquivo\obj\Debug\netcoreapp3.1\uploadArquivo.csproj.CopyComplete
 C:\Users\Lucas\Desktop\Lucas\Projetos\AppRestC#\uploadArquivo\obj\Debug\netcoreapp3.1\Razor\Pages\upload.cshtml.g.cs
+C:\Users\Lucas\Desktop\Lucas\Projetos\AppRestC#\uploadArquivo\obj\Debug\netcoreapp3.1\uploadArquivo.RazorComponent.input.cache
+C:\Users\Lucas\Desktop\Lucas\Projetos\AppRestC#\uploadArquivo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FileInput.razor.g.cs
+C:\Users\Lucas\Desktop\Lucas\Projetos\AppRestC#\uploadArquivo\obj\Debug\netcoreapp3.1\RazorDeclaration\uploadArquivo.dll
+C:\Users\Lucas\Desktop\Lucas\Projetos\AppRestC#\uploadArquivo\obj\Debug\netcoreapp3.1\Razor\Pages\FileInput.razor.g.cs
